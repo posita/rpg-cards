@@ -8,11 +8,11 @@ preview
 
 Click [here](https://crobi.github.io/rpg-cards/generator/generate.html) for a live preview of this generator.
 
-status of the project
-=====================
+THIS PROJECT HAS BEEN ABANDONED
+===============================
 
-I won't have time to work on this project in the forseeable future.
-PR's are still welcome, so feel free to implement new awesome features!
+I am not maintaining this project, nor will I be responding to issues or reviewing PRs.
+Please consider this project abandoned.
 
 FAQ
 =====================
